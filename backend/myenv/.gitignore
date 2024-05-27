@@ -163,3 +163,6 @@ venv.bak/
 # Windows virtual environment scripts folder
 Scripts/
 Lib/
+Include/
+sqlapp.db
+sqlapp.sqbpro
